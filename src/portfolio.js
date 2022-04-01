@@ -126,7 +126,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Bangalore City College",
+      schoolName: "Bangalor City College",
       logo: require("./assets/images/BangaloreCityCollege.jpg"),
       subHeader: "Master of Science in Computer Science",
       duration: "March 2022 - Presented",
